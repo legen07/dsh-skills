@@ -1,0 +1,41 @@
+{
+  "name": "dsh-skills",
+  "version": "1.0.0",
+  "description": "A curated collection of DeepSeek Harness (DSH) skills for AI agents",
+  "author": "Joe Legen <joe.legen.dev@gmail.com>",
+  "homepage": "https://github.com/legen07/dsh-skills",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:legen07/dsh-skills.git"
+  },
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apple-design",
+    "nextjs-16-edge",
+    "website-production-hardening"
+  ],
+  "keywords": [
+    "dsh",
+    "deepseek",
+    "harness",
+    "ai-agent",
+    "skills",
+    "apple-design",
+    "nextjs",
+    "web-engineering",
+    "production-hardening"
+  ],
+  "topics": [
+    "ai-agents",
+    "deepseek",
+    "dsh",
+    "skills",
+    "apple-design",
+    "nextjs-16",
+    "web-engineering",
+    "production-hardening",
+    "machine-learning",
+    "developer-tools"
+  ]
+}
